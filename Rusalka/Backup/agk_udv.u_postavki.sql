@@ -1,0 +1,31 @@
+USE [sqlmes]
+GO
+
+/****** Object:  Table [agk_udv].[U_POSTAVKI]    Script Date: 11.12.2019 16:48:01 ******/
+DROP TABLE [agk_udv].[U_POSTAVKI]
+GO
+
+/****** Object:  Table [agk_udv].[U_POSTAVKI]    Script Date: 11.12.2019 16:48:01 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [agk_udv].[U_POSTAVKI](
+	[ID] [int] IDENTITY(1,1) NOT NULL,
+	[DATA] [datetime] NULL,
+	[NAIMENOVANIE] [nvarchar](100) NULL,
+	[MASSA] [decimal](18, 0) NULL,
+	[KOLICHESTVO_VAGONOV] [smallint] NULL,
+	[ID_BRIGADY] [int] NULL,
+	[ID_LOKOMOTIVA] [int] NULL,
+	[ID_POSTAVSCHIKA] [int] NULL,
+	[ID_DOC] [int] NULL,
+ CONSTRAINT [PK_ADK_UDV_U_POSTAVKI_ID] PRIMARY KEY CLUSTERED 
+(
+	[ID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
