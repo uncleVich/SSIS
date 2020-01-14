@@ -1,0 +1,14 @@
+program ssis_demo;
+
+uses
+  Vcl.Forms,
+  main in 'main.pas' {mform};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(Tmform, mform);
+  Application.Run;
+end.
