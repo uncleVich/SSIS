@@ -1,0 +1,23 @@
+﻿<root>
+  <row>
+    <ID>16</ID>
+    <DATA>2019-11-22T00:00:00</DATA>
+    <NAIMENOVANIE>На сервере SSIS также имеется такая сущность как окружение (enviroment)</NAIMENOVANIE>
+    <MASSA>128</MASSA>
+    <KOLICHESTVO_VAGONOV>2</KOLICHESTVO_VAGONOV>
+  </row>
+  <row>
+    <ID>21</ID>
+    <DATA>2019-11-25T00:00:00</DATA>
+    <NAIMENOVANIE>Груз по умолчанию измененный </NAIMENOVANIE>
+    <MASSA>0</MASSA>
+    <KOLICHESTVO_VAGONOV>0</KOLICHESTVO_VAGONOV>
+  </row>
+  <row>
+    <ID>22</ID>
+    <DATA>2019-12-02T00:00:00</DATA>
+    <NAIMENOVANIE>Груз по умолчанию +++</NAIMENOVANIE>
+    <MASSA>0</MASSA>
+    <KOLICHESTVO_VAGONOV>0</KOLICHESTVO_VAGONOV>
+  </row>
+</root>
