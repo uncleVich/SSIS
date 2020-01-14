@@ -1,0 +1,23 @@
+﻿<root>
+  <row>
+    <ID>13</ID>
+    <DATA>2019-11-22T00:00:00</DATA>
+    <NAIMENOVANIE>Всего получены 479 заявок общим объемом 237,75 млрд рублей на покупку 850 590 7</NAIMENOVANIE>
+    <MASSA>512</MASSA>
+    <KOLICHESTVO_VAGONOV>8</KOLICHESTVO_VAGONOV>
+  </row>
+  <row>
+    <ID>14</ID>
+    <DATA>2019-11-22T00:00:00</DATA>
+    <NAIMENOVANIE>По умолчанию пакеты на сервере выполняются в асинхронном режиме.</NAIMENOVANIE>
+    <MASSA>192</MASSA>
+    <KOLICHESTVO_VAGONOV>3</KOLICHESTVO_VAGONOV>
+  </row>
+  <row>
+    <ID>15</ID>
+    <DATA>2019-11-22T00:00:00</DATA>
+    <NAIMENOVANIE>Изменить значение переменной выполнения для пакета SYNCHRONIZED</NAIMENOVANIE>
+    <MASSA>128</MASSA>
+    <KOLICHESTVO_VAGONOV>2</KOLICHESTVO_VAGONOV>
+  </row>
+</root>
