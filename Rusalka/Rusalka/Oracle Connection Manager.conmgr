@@ -1,0 +1,21 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="Oracle Connection Manager"
+  DTS:DTSID="{CAA8BB02-A5FA-4C98-960E-A219F65186FD}"
+  DTS:CreationName="MSORA">
+  <DTS:ObjectData>
+    <OracleXMLPackage>
+      <OraConnectionString>Data Source=orahome;User ID=C##Radmin;WINAUTH=0;</OraConnectionString>
+      <OraPassword
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAK4KjmFm7rkCKuaz0B6mPYgAAAAACAAAAAAAQZgAAAAEAACAAAAAyz1GT21mQsiqBHHCcRElgbiflUdds6YfPDizdsf1DaAAAAAAOgAAAAAIAACAAAABRrz+MvuQxtYGrhfNP6AkYdoPQlJ7wwfdTq2lC2eW5SUAAAAC5J1VYn1KFFwdcl0foWlV3oCVw6NobDQxGbhZutLjR17SY7dFcy/rLmCBtWcuJ483VFUS++WoPV3+udzblR+NzQAAAABhXi7efZyzHprIQ0jKQzQj8cVeQMWkZu/adyZ+YT2d67FzstR7Vt2t9k6/eBNJV1Q1S28QyDcG5ow5R6edVgVw=</OraPassword>
+      <OraRetain>False</OraRetain>
+      <OraInitialCatalog></OraInitialCatalog>
+      <OraServerName>orahome</OraServerName>
+      <OraUserName>C##Radmin</OraUserName>
+      <OraOracleHome></OraOracleHome>
+      <OraOracleHome64></OraOracleHome64>
+      <OraWinAuthentication>False</OraWinAuthentication>
+      <OraEnableDetailedTracing>False</OraEnableDetailedTracing>
+    </OracleXMLPackage>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
