@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="WIN-VU629SPOBTT.sqlmes.sa 1 1"
+  DTS:DTSID="{96EEB220-0557-4619-9672-C1822F28C111}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=WIN-VU629SPOBTT;Initial Catalog=sqlmes;Provider=MSOLEDBSQL.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-Package-{96EEB220-0557-4619-9672-C1822F28C111}WIN-VU629SPOBTT.sqlmes.sa 1;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
