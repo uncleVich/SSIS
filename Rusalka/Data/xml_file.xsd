@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="root">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" name="row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element minOccurs="0" name="ID" type="xs:unsignedByte" />
+              <xs:element minOccurs="0" name="DATA" type="xs:dateTime" />
+              <xs:element minOccurs="0" name="NAIMENOVANIE" type="xs:string" />
+              <xs:element minOccurs="0" name="MASSA" type="xs:unsignedShort" />
+              <xs:element minOccurs="0" name="KOLICHESTVO_VAGONOV" type="xs:unsignedByte" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
