@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.054,C:\SSIS\Demo_APP\Unit1.dfm=C:\SSIS\Demo_APP\main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.054,C:\SSIS\Demo_APP\Unit1.pas=C:\SSIS\Demo_APP\main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.095,C:\Users\adanko\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\SSIS\Demo_APP\ssis_demo.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.272,C:\Users\adanko\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\SSIS\Demo_APP\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.910,=C:\Users\adanko\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.272,C:\Users\adanko\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\SSIS\Demo_APP\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
