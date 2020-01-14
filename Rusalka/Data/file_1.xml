@@ -1,0 +1,16 @@
+﻿<root>
+  <row>
+    <ID>10</ID>
+    <DATA>2019-11-22T00:00:00</DATA>
+    <NAIMENOVANIE>В октябрьском этапе конкурса участвует военнослужащая филиала Военной академии </NAIMENOVANIE>
+    <MASSA>128</MASSA>
+    <KOLICHESTVO_VAGONOV>2</KOLICHESTVO_VAGONOV>
+  </row>
+  <row>
+    <ID>11</ID>
+    <DATA>2019-11-22T00:00:00</DATA>
+    <NAIMENOVANIE>Конкуренцию серпуховичке составляют девушки из Чехова, Владивостока и Кемеровск</NAIMENOVANIE>
+    <MASSA>256</MASSA>
+    <KOLICHESTVO_VAGONOV>4</KOLICHESTVO_VAGONOV>
+  </row>
+</root>
